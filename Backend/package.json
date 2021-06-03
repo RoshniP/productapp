@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "mongoose": "^5.12.12"
+  },
+  "optionalDependencies": {
+    "fsevents": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "(app.js)"
+  },
+  "keywords": [
+    "data"
+  ],
+  "description": ""
+}
